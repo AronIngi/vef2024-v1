@@ -1,1 +1,1 @@
-Verkefni 1 í vefforritun 2024
+## Verkefni 1 í vefforritun 2024
